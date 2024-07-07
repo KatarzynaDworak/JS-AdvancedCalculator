@@ -1,6 +1,6 @@
 # Thanks for viewing my Project ✨
 
-[![Watch the video](https://img.youtube.com/vi/TwP6Aig89Yw/0.jpg)]([path/to/your/video.mov](https://github.com/KatarzynaDworak/JS-AdvancedCalculator/blob/master/calculator_video.mov))
+[![Watch the video]([path/to/your/video.mov](https://github.com/KatarzynaDworak/JS-AdvancedCalculator/blob/master/calculator_video.mov))
 
 <br />
 
