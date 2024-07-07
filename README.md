@@ -3,7 +3,7 @@
 ![ a main page screenshot](./images/screen2.png)
 <br />
 
-## :star: Demonstration Video: ([https://katarzynadworak.github.io/modern-web-design/](https://katarzynadworak.github.io/JS-AdvancedCalculator/))
+## :star: Demonstration Video: ([Demonstration Video](https://katarzynadworak.github.io/JS-AdvancedCalculator/))
 <br />
 <br />
 
