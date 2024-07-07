@@ -1,9 +1,6 @@
 # Thanks for viewing my Project ✨
 
-![ a main page screenshot](./images/screen2.png)
-<br />
-
-## :star: Demonstration Video: ([Demonstration Video](https://katarzynadworak.github.io/JS-AdvancedCalculator/))
+## :star: Watch the video: ([Demonstration of the Project](https://katarzynadworak.github.io/JS-AdvancedCalculator/))
 <br />
 <br />
 
