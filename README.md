@@ -2,7 +2,8 @@
 
 ## Demonstration Video
 
-[Watch the video](https://github.com/KatarzynaDworak/JS-AdvancedCalculator/blob/master/calculator_video.mp4)
+[![Watch the video]([https://img.youtube.com/vi/TwP6Aig89Yw/0.jpg](https://github.com/KatarzynaDworak/JS-AdvancedCalculator/blob/master/screen.png))]([path/to/your/video.mov](https://github.com/KatarzynaDworak/JS-AdvancedCalculator/blob/master/calculator_video.mp4))
+
 
 <br />
 
