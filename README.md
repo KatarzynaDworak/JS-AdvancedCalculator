@@ -1,9 +1,7 @@
 # Thanks for viewing my Project ✨
 
-![ a main page screenshot](./images/screen.png)
-<br />
+[![Watch the video]([path/to/your/video.mov](https://github.com/KatarzynaDworak/JS-AdvancedCalculator/blob/master/calculator_video.mov))
 
-## :star: Live Deployment: https://katarzynadworak.github.io/rwd-website-project/
 <br />
 
 ## Main goal of my work was to:
