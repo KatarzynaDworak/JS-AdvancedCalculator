@@ -2,6 +2,11 @@
 
 [![Watch the video]([path/to/your/video.mov](https://github.com/KatarzynaDworak/JS-AdvancedCalculator/blob/master/calculator_video.mov))
 
+<video width="320" height="240" controls>
+  <source src="./calculator_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 <br />
 
 ## Main goal of my work was to:
