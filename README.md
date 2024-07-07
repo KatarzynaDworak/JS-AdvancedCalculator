@@ -1,9 +1,6 @@
 # Thanks for viewing my Project ✨
 
-## Demonstration Video
-
-[Watch the video](https://github.com/KatarzynaDworak/JS-AdvancedCalculator/blob/master/calculator_video.mp4)
-
+## :star: Watch the video: ([Demonstration of the Project](https://katarzynadworak.github.io/JS-AdvancedCalculator/))
 <br />
 
 ## Main goal of my work was to:
@@ -141,24 +138,4 @@ The following example demonstrates how the calculator can be used interactively,
 <br />
 
 ### Thanks
-To Colorlib [colorlib.com](https://colorlib.com) for free templates.
-
-# JavaScript: Podstawy
-
-Twoim zadaniem będzie dopisanie do istniejącego kodu niezbędnych elementów, które pozwolą wykonywać obliczenia oraz przechowywać historię wykonanych operacji.
-
-Nasz **kalkulator** powinien posiadać następujące opcje:
-
-* dodawanie (+)
-* odejmowanie (-)
-* mnożenie (*)
-* dzielenie (/)
-* potęgowanie (^) – wykonaj to przy pomocy pętli, nie korzystaj z `Math.pow()`.
-
-Gdy otworzysz plik `./js/app.js`, to zauważysz, że mamy tam już gotowy konstruktor o nazwie `Calculator`, który musimy uzupełnić odpowiednimi metodami.
-
-Wzoruj się na metodzie `Calculator.prototype.add`, w której znajdziesz rozpiskę kolejnych kroków do wykonania.
-
-We naszym pliku `app.js` wykorzystujemy również pętlę [do...while](https://developer.mozilla.org/pl/docs/Web/JavaScript/Referencje/Polecenia/do...while), która w swoim wnętrzu pobiera dane od użytkownika. Na ich podstawie wykonywane są dalsze czynności. 
-
-To tam należy dopisać kilka instrukcji `if` oraz wywołać odpowiednie metody.
+To my Mentor - devmentor.pl – for creating the task and for the code review.
