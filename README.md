@@ -1,11 +1,10 @@
 # Thanks for viewing my Project ✨
 
-## Demonstration Video
+![ a main page screenshot](./images/screen2.png)
+<br />
 
-[![Watch the video](https://github.com/KatarzynaDworak/JS-AdvancedCalculator/blob/master/screen.png)](https://github.com/KatarzynaDworak/JS-AdvancedCalculator/blob/master/calculator_video.mp4)
-
-
-
+## :star: Demonstration Video: ([https://katarzynadworak.github.io/modern-web-design/](https://katarzynadworak.github.io/JS-AdvancedCalculator/))
+<br />
 <br />
 
 ## Main goal of my work was to:
