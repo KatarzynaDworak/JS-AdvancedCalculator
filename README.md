@@ -2,7 +2,6 @@
 
 ## :star: Watch the video: ([Demonstration of the Project](https://katarzynadworak.github.io/JS-AdvancedCalculator/))
 <br />
-<br />
 
 ## Main goal of my work was to:
 - provide **basic arithmetic operations**: implement fundamental operations such as addition, subtraction, multiplication, division, and exponentiation to ensure the calculator can handle a variety of basic mathematical tasks
