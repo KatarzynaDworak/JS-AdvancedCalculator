@@ -1,9 +1,6 @@
 # Thanks for viewing my Project ✨
 
-![ a main page screenshot](./images/screen.png)
-<br />
-
-## :star: Live Deployment: https://katarzynadworak.github.io/rwd-website-project/
+![ a main page video](./calculator_video.mov)
 <br />
 
 ## Main goal of my work was to:
