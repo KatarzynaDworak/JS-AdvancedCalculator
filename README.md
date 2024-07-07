@@ -1,11 +1,8 @@
 # Thanks for viewing my Project ✨
 
-[![Watch the video]([path/to/your/video.mov](https://github.com/KatarzynaDworak/JS-AdvancedCalculator/blob/master/calculator_video.mov))
+## Demonstration Video
 
-<video width="320" height="240" controls>
-  <source src="./calculator_video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch the video](https://github.com/KatarzynaDworak/JS-AdvancedCalculator/blob/master/calculator_video.mp4)
 
 <br />
 
