@@ -1,6 +1,6 @@
 # Thanks for viewing my Project ✨
 
-## :star: Watch the video: [Demonstration of the Project](https://katarzynadworak.github.io/JS-AdvancedCalculator/)
+## :star: Watch the video: [Demonstration of the Project](https://katarzynadworak.github.io/js-advanced-calculator/)
 <br />
 
 ## Main goal of my work was to:
